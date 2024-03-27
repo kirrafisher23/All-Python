@@ -1,0 +1,5 @@
+shortboard BT longboard IF
+reef-break BT beach-break IF
+turns BT barrel IF
+longboard BT shortboard IF peeling
+shortboard BT longboard IF barreling

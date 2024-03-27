@@ -1,0 +1,4 @@
+board: shortboard, longboard
+wave: peeling, barreling
+type: reef-break, beach-break
+manuver: barrel, turns

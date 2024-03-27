@@ -1,0 +1,3 @@
+shortboard AND reef-break, 12
+shortboard AND barreling, 12
+barreling AND barrel, 6

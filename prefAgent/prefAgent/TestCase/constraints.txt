@@ -1,0 +1,2 @@
+NOT longboard OR NOT peeling
+NOT longboard OR NOT turns
